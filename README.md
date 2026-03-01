@@ -33,7 +33,7 @@
 ###
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 
 <h2 align="left">Herramientas</h2>
