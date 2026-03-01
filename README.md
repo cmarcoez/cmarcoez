@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Suelo poner a prueba mis habilidades creando proyectos nuevos que requieran de una herramienta con la cual no estoy familiarizada.<br>📚 Actualmente estoy aprendiendo Next.js y C#.<br>🎯 Me gustaría aprender desarrollo de videojuegos.<br>🎲 He mejorado mi productividad a la hora de solucionar errores de código. <br>💡 Utilizo documentación para mejorar mi lógica de programación. <br>❤️ Aparte de la programación, me gusta viajar e investigar.</p>
+<p align="left">✨ Suelo poner a prueba mis habilidades creando proyectos nuevos que requieran de una herramienta con la cual no estoy familiarizada.<br>📚 Actualmente estoy aprendiendo Next.js y C#.<br>🎯 Me gustaría aprender desarrollo de videojuegos.<br>🎲 Suelo utilizar TypeScript para mejorar la fiabilidad y concisión del código. <br>💡 Utilizo documentación para mejorar mi lógica de programación. <br>❤️ Aparte de la programación, me gusta viajar e investigar.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,react,nodejs" />
   </a>
 
 <h2 align="left">Bases de Datos</h2>
