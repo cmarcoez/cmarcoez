@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Suelo poner a prueba mis habilidades creando proyectos nuevos que requieran de una herramienta con la cual no estoy familiarizada.<br>📚 Actualmente estoy aprendiendo Next.js y C#.<br>🎯 Me gustaría aprender desarrollo de videojuegos.<br>🎲 Suelo utilizar TypeScript para mejorar la fiabilidad y concisión del código. <br>💡 Utilizo documentación para mejorar mi lógica de programación. <br>❤️ Aparte de la programación, me gusta viajar e investigar.</p>
+<p align="left">✨ Suelo poner a prueba mis habilidades creando proyectos nuevos que requieran de una herramienta con la cual no estoy familiarizada.<br>📚 Actualmente estoy aprendiendo C#.<br>🎯 Me gustaría aprender desarrollo de videojuegos.<br>🎲 Suelo utilizar TypeScript para mejorar la fiabilidad y concisión del código. <br>💡 Utilizo documentación para mejorar mi lógica de programación. <br>❤️ Aparte de la programación, me gusta viajar e investigar.</p>
 
 ###
 
