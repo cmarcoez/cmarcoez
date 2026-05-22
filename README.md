@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Carolina Marco y me dedico al Desarrollo Frontend. Diseño interfaces y sitios web interactivos y dinámicos. Me gusta colaborar en proyectos para entender código compartido y mejorar mi desarrollo profesional.</p>
+<p align="left">Soy Carolina Marco y me dedico al Desarrollo Front End y Full Stack. Diseño interfaces y sitios web interactivos y dinámicos. Me gusta colaborar en proyectos para entender código compartido y mejorar mi desarrollo profesional.</p>
 
 ###
 
