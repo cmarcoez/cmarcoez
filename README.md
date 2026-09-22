@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Soy Carolina Marco y me dedico al Desarrollo Front End y Full Stack. Diseño interfaces y sitios web interactivos y dinámicos. Me gusta colaborar en proyectos para entender código compartido y mejorar mi desarrollo profesional.</p>
+<p align="left">Soy Carolina Marco y me dedico al Desarrollo Front End. Me apasiona crear experiencias web que combinan el diseño cuidado, buen rendimiento y accesibilidad. Me gusta transformar ideas y diseños en interfaces funcionales, limpias y agradables de usar.</p>
+
+<p>Actualmente trabajo principalmente con React, JavaScript y TypeScript, aunque siempre estoy explorando nuevas herramientas y buenas prácticas del ecosistema Front End.</p>
 
 ###
 
@@ -16,11 +18,15 @@
 
 ###
 
-<p align="left">✨ Suelo poner a prueba mis habilidades creando proyectos nuevos que requieran de una herramienta con la cual no estoy familiarizada.<br>🎯 Me gustaría aprender desarrollo de videojuegos.<br>🎲 Suelo utilizar TypeScript para mejorar la fiabilidad y concisión del código. <br>💡 Utilizo documentación para mejorar mi lógica de programación. <br>❤️ Aparte de la programación, me gusta viajar e investigar.</p>
+<p align="left">🎨 Creo clean code y componentes reutilizables. <br>🗨️ Comparto mi aprendizaje con comunidades. <br>💯 Desarrollo proyectos continuamente para seguir creciendo. <br>👾 Aparte de la programación estoy aprendiendo informática.</p>
 
 ###
 
 <h2 align="left">Tecnologías que Utilizo</h2>
+
+- HTML5 · CSS3 · JavaScript(ES6+) · TypeScript
+- React · Next.js
+- SASS/SCSS · Styled Components · CSS Modules
 
 ###
 
@@ -38,6 +44,10 @@
 
 <h2 align="left">Herramientas</h2>
 
+- Vite · ESLint · Prettier
+- Git · Github
+- Jest · Vitest
+
 ###
 
   <a href="https://skillicons.dev">
@@ -48,4 +58,4 @@
 <br>
 Créditos: cmarcoez
 
-Última vez editado: 01/03/2026
+Última vez editado: 22/09/2026
